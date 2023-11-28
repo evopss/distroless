@@ -98,5 +98,4 @@ pkg_tar(
     mode = "0644",
     package_dir = "etc",
 )
-
 [distro_components(distro) for distro in DISTROS]
